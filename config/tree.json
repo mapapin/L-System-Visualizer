@@ -1,0 +1,15 @@
+{
+    "width" : 800,
+    "height" : 800,
+    "x" : 400,
+    "y" : 800,
+    "size" : 20,
+    "angle" : 25,
+    "axiom" : "X",
+    "rules" : 
+    {
+        "X" : "F+[[X]-X]-F[-FX]+X",
+        "F" : "FF"
+    },
+    "maxDepth" : 8
+}

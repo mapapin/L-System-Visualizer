@@ -1,0 +1,15 @@
+{
+    "width" : 800,
+    "height" : 800,
+    "x" : 600,
+    "y" : 600,
+    "size" : 20,
+    "angle" : 120,
+    "axiom":"F-G-G",
+    "rules":
+    {
+        "F":"F-G+F+G-F",
+        "G":"GG"
+    },
+    "maxDepth" : 9
+}
